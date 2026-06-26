@@ -65,3 +65,5 @@ Deleting Your Data
 You may permanently delete your ObjectDex player data at any time by using the following command: '/player delete'
 
 This command removes your stored player data from the bot’s database.
+
+Last updated 26th June 2026

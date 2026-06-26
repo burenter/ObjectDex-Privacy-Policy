@@ -62,8 +62,6 @@ Stored data is never made publicly available and is protected using appropriate 
 
 Deleting Your Data
 
-You may permanently delete your ObjectDex player data at any time by using the following command:
-
-/player delete
+You may permanently delete your ObjectDex player data at any time by using the following command: '/player delete'
 
 This command removes your stored player data from the bot’s database.

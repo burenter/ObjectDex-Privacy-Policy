@@ -1,4 +1,4 @@
-## ObjectDex Privacy Policy
+## ObjectDex Discord Bot - Privacy Policy
 
 Welcome to the ObjectDex Privacy Policy. This document explains what data is collected by ObjectDex, how it is used, and who has access to it.
 
